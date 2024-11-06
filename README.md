@@ -3,7 +3,7 @@
 # List_HostedWebapps
 here is a list of the webapps I created and I am hosting
 
-## 1. Contacts
+## 1. Plots
 An app to plot a set of database
 developed using chart.js, HTML, Flask, Python 3.1, hosted on pythonanywhere.com
 aldusejoy.pythonanywhere.com
